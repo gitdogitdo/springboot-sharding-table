@@ -1,7 +1,7 @@
 package com.xd.shardingtable.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.xd.shardingtable.entity.User;
+import com.xd.shardingtable.entity.user.vo.User;
 
 /**
  * <p>

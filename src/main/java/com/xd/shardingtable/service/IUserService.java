@@ -1,7 +1,7 @@
 package com.xd.shardingtable.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.xd.shardingtable.entity.User;
+import com.xd.shardingtable.entity.user.vo.User;
 
 import java.util.List;
 
