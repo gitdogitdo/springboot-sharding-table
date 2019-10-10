@@ -25,5 +25,5 @@ public class AuthController {
 
     @Autowired
     private ApplicationEventPublisher eventPublisher;
-    
+
 }
